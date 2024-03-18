@@ -21,7 +21,7 @@ zksyc
 metis
 sdfsdf
 crypto formation
-flm
+flm fomo
 noct
 ###>20 pt
 sdf
