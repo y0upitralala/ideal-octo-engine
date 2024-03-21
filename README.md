@@ -36,3 +36,4 @@ dencun yesterday
 more dip
 rebond?
 ravalement haussier
+FOMO
