@@ -37,3 +37,4 @@ more dip
 rebond?
 ravalement haussier
 FOMO
+ranging
